@@ -1,3 +1,68 @@
+/* Theme Cards */
+.ThemeCards {
+  background-color: #FFA07A; /* Light Salmon */
+}
+
+/* Game Mechanic Cards */
+.GameMechanicCards {
+  background-color: #87CEEB; /* Sky Blue */
+}
+
+/* Game Type Cards */
+.GameTypeCards {
+  background-color: #98FB98; /* Pale Green */
+}
+
+/* Objective Cards */
+.ObjectiveCards {
+  background-color: #FFD700; /* Gold */
+}
+
+/* Constraint Cards */
+.ConstraintCards {
+  background-color: #FF6347; /* Tomato */
+}
+
+/* Resource Cards */
+.ResourceCards {
+  background-color: #20B2AA; /* Light Sea Green */
+}
+
+/* Target Audience Cards */
+.TargetAudienceCards {
+  background-color: #9370DB; /* Medium Purple */
+}
+
+/* Technology Cards */
+.TechnologyCards {
+  background-color: #66CDAA; /* Medium Aquamarine */
+}
+
+/* Art Style Cards */
+.ArtStyleCards {
+  background-color: #FFB6C1; /* Light Pink */
+}
+
+/* Player Interaction Cards */
+.PlayerInteractionCards {
+  background-color: #FFD700; /* Gold */
+}
+
+/* Random Event Cards */
+.RandomEventCards {
+  background-color: #F08080; /* Light Coral */
+}
+
+/* Narrative Cards */
+.NarrativeCards {
+  background-color: #DDA0DD; /* Plum */
+}
+
+/* Balance Cards */
+.BalanceCards {
+  background-color: #FFA500; /* Orange */
+}
+
 /* card_styles.css */
 .card {
   border: 1px solid #ccc;
