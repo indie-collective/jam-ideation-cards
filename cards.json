@@ -298,5 +298,1005 @@
     "category": "GameTypeCards",
     "title": "Crafting and resource management game",
     "description": "Gather resources, craft items, and manage supplies for survival or progression."
+  },
+  {
+    "Category": "ObjectiveCards",
+    "Title": "Retrieve the Lost Artifact",
+    "Description": "Locate and retrieve a powerful artifact hidden in a dangerous location."
+  },
+  {
+    "Category": "ObjectiveCards",
+    "Title": "Defeat the Evil Overlord",
+    "Description": "Assemble a team and defeat the tyrannical overlord threatening the realm."
+  },
+  {
+    "Category": "ObjectiveCards",
+    "Title": "Explore the Forbidden Ruins",
+    "Description": "Explore ancient ruins filled with mysteries, traps, and valuable treasures."
+  },
+  {
+    "Category": "ObjectiveCards",
+    "Title": "Survive the Zombie Apocalypse",
+    "Description": "Stay alive and find a safe haven in a world overrun by the undead."
+  },
+  {
+    "Category": "ObjectiveCards",
+    "Title": "Complete the Interstellar Race",
+    "Description": "Compete in an interstellar race across dangerous galaxies and be the first to finish."
+  },
+  {
+    "Category": "ObjectiveCards",
+    "Title": "Solve the Murder Mystery",
+    "Description": "Investigate clues and solve a complex murder mystery in a secluded mansion."
+  },
+  {
+    "Category": "ObjectiveCards",
+    "Title": "Conquer the Kingdoms",
+    "Description": "Conquer multiple kingdoms and unite the lands under a single banner."
+  },
+  {
+    "Category": "ObjectiveCards",
+    "Title": "Discover the Source of Magic",
+    "Description": "Uncover the origin and secrets of magic in a world where it's fading away."
+  },
+  {
+    "Category": "ObjectiveCards",
+    "Title": "Rescue the Hostages",
+    "Description": "Embark on a daring mission to rescue hostages held in a heavily guarded fortress."
+  },
+  {
+    "Category": "ObjectiveCards",
+    "Title": "Prevent the Cataclysm",
+    "Description": "Stop a catastrophic event from destroying the world by finding and neutralizing its source."
+  },
+  {
+    "Category": "ObjectiveCards",
+    "Title": "Build a Utopian Society",
+    "Description": "Guide a group of survivors to build a perfect society in a post-apocalyptic world."
+  },
+  {
+    "Category": "ObjectiveCards",
+    "Title": "Unravel the Time Paradox",
+    "Description": "Navigate through time loops and paradoxes to restore the fabric of time."
+  },
+  {
+    "Category": "ObjectiveCards",
+    "Title": "Escape from the Parallel Universe",
+    "Description": "Find a way to escape from a parallel universe before it collapses."
+  },
+  {
+    "Category": "ObjectiveCards",
+    "Title": "Master the Forbidden Arts",
+    "Description": "Master ancient and forbidden arts to save the world or bring it to its knees."
+  },
+  {
+    "Category": "ObjectiveCards",
+    "Title": "Become the Ultimate Champion",
+    "Description": "Compete in various challenges to become the ultimate champion of a grand tournament."
+  },
+  {
+    "Category": "ObjectiveCards",
+    "Title": "Decode the Cryptic Prophecy",
+    "Description": "Decipher a cryptic prophecy that holds the key to preventing impending doom."
+  },
+  {
+    "Category": "ObjectiveCards",
+    "Title": "Recover the Stolen Technology",
+    "Description": "Retrieve stolen groundbreaking technology before it falls into the wrong hands."
+  },
+  {
+    "Category": "ObjectiveCards",
+    "Title": "Uncover the Hidden Society",
+    "Description": "Discover and gain entry into a secret society with untold powers and knowledge."
+  },
+  {
+    "Category": "ObjectiveCards",
+    "Title": "Survive in the Wilderness",
+    "Description": "Survive against nature's challenges in a harsh and unforgiving wilderness."
+  },
+  {
+    "Category": "ObjectiveCards",
+    "Title": "Find the Fabled Treasure",
+    "Description": "Embark on an epic quest to find a fabled treasure rumored to grant immense wealth."
+  },
+  {
+    "Category": "ConstraintCards",
+    "Title": "Limited Resources",
+    "Description": "Players have scarce resources, forcing strategic management and trade-offs."
+  },
+  {
+    "Category": "ConstraintCards",
+    "Title": "Time Pressure",
+    "Description": "A timer or deadline imposes urgency on decision-making and actions."
+  },
+  {
+    "Category": "ConstraintCards",
+    "Title": "Restricted Movement",
+    "Description": "Players face limitations or obstacles hindering their movement or exploration."
+  },
+  {
+    "Category": "ConstraintCards",
+    "Title": "Incomplete Information",
+    "Description": "Players lack certain crucial information, leading to uncertainty and risk."
+  },
+  {
+    "Category": "ConstraintCards",
+    "Title": "Trait Limitations",
+    "Description": "Characters or players have restricted abilities or traits, impacting their actions."
+  },
+  {
+    "Category": "ConstraintCards",
+    "Title": "Alliance Restrictions",
+    "Description": "Rules limit or prohibit alliances between players or factions."
+  },
+  {
+    "Category": "ConstraintCards",
+    "Title": "Betrayal Mechanism",
+    "Description": "Players face the risk of betrayal or sabotage by others in the game."
+  },
+  {
+    "Category": "ConstraintCards",
+    "Title": "Hidden Agendas",
+    "Description": "Each player has a hidden objective or agenda that may conflict with the group goal."
+  },
+  {
+    "Category": "ConstraintCards",
+    "Title": "Limited Communication",
+    "Description": "Players have restricted communication, adding challenge and complexity."
+  },
+  {
+    "Category": "ConstraintCards",
+    "Title": "Role Constraints",
+    "Description": "Assigned roles come with limitations or specific rules that must be followed."
+  },
+  {
+    "Category": "ConstraintCards",
+    "Title": "Resource Blockage",
+    "Description": "Specific resources or paths are blocked or limited throughout the game."
+  },
+  {
+    "Category": "ConstraintCards",
+    "Title": "Random Events",
+    "Description": "Unpredictable events occur at intervals, introducing chaos and complexity."
+  },
+  {
+    "Category": "ConstraintCards",
+    "Title": "Traitor Mechanism",
+    "Description": "One or more players secretly work against the group's objectives."
+  },
+  {
+    "Category": "ConstraintCards",
+    "Title": "Limited Turns",
+    "Description": "Players have a set number of turns or actions before the game ends."
+  },
+  {
+    "Category": "ConstraintCards",
+    "Title": "Equipment Damage",
+    "Description": "Equipment or tools degrade or break, affecting gameplay or abilities."
+  },
+  {
+    "Category": "ConstraintCards",
+    "Title": "Puzzle Locks",
+    "Description": "Certain paths or objectives are locked behind intricate puzzles or challenges."
+  },
+  {
+    "Category": "ConstraintCards",
+    "Title": "Moral Dilemmas",
+    "Description": "Players face choices with ethical implications, impacting gameplay or story."
+  },
+  {
+    "Category": "ConstraintCards",
+    "Title": "Limited Replayability",
+    "Description": "Certain elements or actions cannot be repeated or revisited."
+  },
+  {
+    "Category": "ConstraintCards",
+    "Title": "Weather Conditions",
+    "Description": "Harsh weather conditions affect movement or actions in the game."
+  },
+  {
+    "Category": "ConstraintCards",
+    "Title": "Trade Restrictions",
+    "Description": "Rules or conditions limit or regulate trade between players or factions."
+  },
+  {
+    "Category": "ResourceCards",
+    "Title": "Gold",
+    "Description": "A valuable currency used for trading, purchasing items, or upgrading equipment."
+  },
+  {
+    "Category": "ResourceCards",
+    "Title": "Energy Crystals",
+    "Description": "Powerful crystals used to fuel machinery, magic, or advanced technology."
+  },
+  {
+    "Category": "ResourceCards",
+    "Title": "Food Supplies",
+    "Description": "Essential for sustenance, used to feed characters or maintain a population."
+  },
+  {
+    "Category": "ResourceCards",
+    "Title": "Wood",
+    "Description": "Basic building material used in construction, crafting, or as fuel."
+  },
+  {
+    "Category": "ResourceCards",
+    "Title": "Ore/Minerals",
+    "Description": "Raw materials crucial for crafting weapons, armor, or advanced technology."
+  },
+  {
+    "Category": "ResourceCards",
+    "Title": "Medicinal Herbs",
+    "Description": "Plants or herbs with healing properties used for treating injuries or ailments."
+  },
+  {
+    "Category": "ResourceCards",
+    "Title": "Mana/Essence",
+    "Description": "Mystical energy required for spellcasting, rituals, or performing magical abilities."
+  },
+  {
+    "Category": "ResourceCards",
+    "Title": "Technology Parts",
+    "Description": "Components necessary for repairing, upgrading, or constructing technological devices."
+  },
+  {
+    "Category": "ResourceCards",
+    "Title": "Water",
+    "Description": "Essential for survival, used for hydration, irrigation, or powering machinery."
+  },
+  {
+    "Category": "ResourceCards",
+    "Title": "Gems",
+    "Description": "Precious stones valuable for trade, magical rituals, or enhancing equipment."
+  },
+  {
+    "Category": "ResourceCards",
+    "Title": "Fuel",
+    "Description": "Energy source used to power vehicles, machinery, or advanced technology."
+  },
+  {
+    "Category": "ResourceCards",
+    "Title": "Textiles",
+    "Description": "Fabric or materials used for clothing, trade, or crafting various items."
+  },
+  {
+    "Category": "ResourceCards",
+    "Title": "Rare Elements",
+    "Description": "Scarce elements essential for scientific research, advanced technology, or magic."
+  },
+  {
+    "Category": "ResourceCards",
+    "Title": "Currency",
+    "Description": "Local or universal currency used for trade, purchasing goods, or services."
+  },
+  {
+    "Category": "ResourceCards",
+    "Title": "Artifacts",
+    "Description": "Ancient or mystical artifacts providing unique powers or abilities."
+  },
+  {
+    "Category": "ResourceCards",
+    "Title": "Building Materials",
+    "Description": "Materials necessary for constructing structures, buildings, or fortifications."
+  },
+  {
+    "Category": "ResourceCards",
+    "Title": "Toxic Materials",
+    "Description": "Dangerous substances used in crafting or as components for specific effects."
+  },
+  {
+    "Category": "ResourceCards",
+    "Title": "Electronics",
+    "Description": "Advanced components used in technology, communication devices, or machinery."
+  },
+  {
+    "Category": "ResourceCards",
+    "Title": "Animal Hides",
+    "Description": "Raw materials obtained from animals, used in crafting or trading."
+  },
+  {
+    "Category": "ResourceCards",
+    "Title": "Essential Minerals",
+    "Description": "Crucial minerals required for technological advancements or magical rituals."
+  },
+  {
+    "Category": "TargetAudienceCards",
+    "Title": "Children (Ages 5-8)",
+    "Description": "Designed for young children to engage, entertain, and educate."
+  },
+  {
+    "Category": "TargetAudienceCards",
+    "Title": "Teenagers (Ages 13-17)",
+    "Description": "Caters to the interests, preferences, and attention span of teenagers."
+  },
+  {
+    "Category": "TargetAudienceCards",
+    "Title": "Young Adults (Ages 18-25)",
+    "Description": "Tailored for young adults, offering engaging challenges and themes."
+  },
+  {
+    "Category": "TargetAudienceCards",
+    "Title": "Adults (Ages 25-40)",
+    "Description": "Designed for mature audiences, offering complexity and depth in gameplay."
+  },
+  {
+    "Category": "TargetAudienceCards",
+    "Title": "Elderly (Ages 65+)",
+    "Description": "Accessible and engaging for older adults, considering limitations and preferences."
+  },
+  {
+    "Category": "TargetAudienceCards",
+    "Title": "Casual Gamers",
+    "Description": "Designed for individuals who play games occasionally, focusing on simplicity."
+  },
+  {
+    "Category": "TargetAudienceCards",
+    "Title": "Hardcore Gamers",
+    "Description": "Caters to dedicated and passionate gamers, offering challenging gameplay."
+  },
+  {
+    "Category": "TargetAudienceCards",
+    "Title": "Family-Oriented",
+    "Description": "Suitable for families to play together, accommodating various skill levels."
+  },
+  {
+    "Category": "TargetAudienceCards",
+    "Title": "Educational Focus",
+    "Description": "Emphasizes learning elements, suitable for educational institutions or purposes."
+  },
+  {
+    "Category": "TargetAudienceCards",
+    "Title": "Social Interaction",
+    "Description": "Encourages socializing and interaction among players or within communities."
+  },
+  {
+    "Category": "TargetAudienceCards",
+    "Title": "Competitive Players",
+    "Description": "Caters to individuals who seek intense competition and strategic challenges."
+  },
+  {
+    "Category": "TargetAudienceCards",
+    "Title": "Solo Players",
+    "Description": "Designed for solitary gameplay experiences, offering engaging single-player modes."
+  },
+  {
+    "Category": "TargetAudienceCards",
+    "Title": "Cooperative Players",
+    "Description": "Emphasizes teamwork and collaboration among players to achieve goals."
+  },
+  {
+    "Category": "TargetAudienceCards",
+    "Title": "Story-Driven Enthusiasts",
+    "Description": "Attracts players interested in rich narratives and immersive storytelling."
+  },
+  {
+    "Category": "TargetAudienceCards",
+    "Title": "Art and Aesthetics",
+    "Description": "Appeals to players appreciative of artistic design and visual aesthetics."
+  },
+  {
+    "Category": "TargetAudienceCards",
+    "Title": "Time-Conscious Players",
+    "Description": "Caters to individuals seeking short gameplay sessions due to time constraints."
+  },
+  {
+    "Category": "TargetAudienceCards",
+    "Title": "Experimental Players",
+    "Description": "Designed for players interested in innovative or unconventional game mechanics."
+  },
+  {
+    "Category": "TargetAudienceCards",
+    "Title": "Cultural and Historical Enthusiasts",
+    "Description": "Appeals to players interested in cultural or historical settings and themes."
+  },
+  {
+    "Category": "TargetAudienceCards",
+    "Title": "Exploration and Discovery",
+    "Description": "Attracts players who enjoy exploring vast worlds and discovering hidden secrets."
+  },
+  {
+    "Category": "TargetAudienceCards",
+    "Title": "Fantasy and Sci-Fi Fans",
+    "Description": "Caters to fans of fantastical or futuristic settings, creatures, and stories."
+  },
+  {
+    "Category": "TechnologyCards",
+    "Title": "Augmented Reality (AR)",
+    "Description": "Technology overlaying digital content onto the real world, enhancing perception."
+  },
+  {
+    "Category": "TechnologyCards",
+    "Title": "Virtual Reality (VR)",
+    "Description": "Immersive technology creating artificial environments, often using headsets."
+  },
+  {
+    "Category": "TechnologyCards",
+    "Title": "Artificial Intelligence (AI)",
+    "Description": "Simulated intelligence imitating human-like thinking and decision-making."
+  },
+  {
+    "Category": "TechnologyCards",
+    "Title": "Blockchain",
+    "Description": "Decentralized and secure digital ledger technology for data and transactions."
+  },
+  {
+    "Category": "TechnologyCards",
+    "Title": "Internet of Things (IoT)",
+    "Description": "Network connecting devices to exchange data and automate tasks."
+  },
+  {
+    "Category": "TechnologyCards",
+    "Title": "Robotics",
+    "Description": "Design and creation of robots to perform tasks autonomously or with guidance."
+  },
+  {
+    "Category": "TechnologyCards",
+    "Title": "3D Printing",
+    "Description": "Additive manufacturing technology creating objects layer by layer from digital models."
+  },
+  {
+    "Category": "TechnologyCards",
+    "Title": "Biotechnology",
+    "Description": "Use of biological systems, organisms, or cells for technological applications."
+  },
+  {
+    "Category": "TechnologyCards",
+    "Title": "Quantum Computing",
+    "Description": "Utilization of quantum-mechanical phenomena for advanced computation."
+  },
+  {
+    "Category": "TechnologyCards",
+    "Title": "Cybersecurity",
+    "Description": "Protection of systems, networks, and data from cyber threats and attacks."
+  },
+  {
+    "Category": "TechnologyCards",
+    "Title": "Big Data Analytics",
+    "Description": "Processing and analysis of large and complex data sets for insights and trends."
+  },
+  {
+    "Category": "TechnologyCards",
+    "Title": "Machine Learning",
+    "Description": "AI technique enabling systems to learn and improve from experience without explicit programming."
+  },
+  {
+    "Category": "TechnologyCards",
+    "Title": "Renewable Energy",
+    "Description": "Energy derived from natural sources like sunlight, wind, or water, reducing reliance on fossil fuels."
+  },
+  {
+    "Category": "TechnologyCards",
+    "Title": "Nanotechnology",
+    "Description": "Manipulation of matter at the molecular or atomic level for various applications."
+  },
+  {
+    "Category": "TechnologyCards",
+    "Title": "Wireless Charging",
+    "Description": "Technology enabling devices to charge without physical connections or cables."
+  },
+  {
+    "Category": "TechnologyCards",
+    "Title": "Smart Cities",
+    "Description": "Urban development integrating technology for efficient services and sustainability."
+  },
+  {
+    "Category": "TechnologyCards",
+    "Title": "Self-Driving Vehicles",
+    "Description": "Autonomous vehicles capable of navigating and operating without human input."
+  },
+  {
+    "Category": "TechnologyCards",
+    "Title": "Gesture Control",
+    "Description": "Interacting with devices or systems using gestures and body movements."
+  },
+  {
+    "Category": "TechnologyCards",
+    "Title": "Fintech (Financial Technology)",
+    "Description": "Innovative technology transforming financial services, transactions, and management."
+  },
+  {
+    "Category": "TechnologyCards",
+    "Title": "Cloud Computing",
+    "Description": "Delivery of computing services like storage, servers, and databases over the internet."
+  },
+  {
+    "Category": "ArtStyleCards",
+    "Title": "Pixel Art",
+    "Description": "Retro-style graphics composed of individual pixels for a nostalgic feel."
+  },
+  {
+    "Category": "ArtStyleCards",
+    "Title": "Cartoonish",
+    "Description": "Playful and exaggerated style resembling cartoons, with vibrant colors and whimsical designs."
+  },
+  {
+    "Category": "ArtStyleCards",
+    "Title": "Realistic 3D",
+    "Description": "Detailed and lifelike graphics using advanced 3D modeling and rendering techniques."
+  },
+  {
+    "Category": "ArtStyleCards",
+    "Title": "Minimalistic",
+    "Description": "Simplified and clean design with minimal details and a focus on essential elements."
+  },
+  {
+    "Category": "ArtStyleCards",
+    "Title": "Hand-Drawn",
+    "Description": "Artwork created by hand using traditional drawing techniques, offering a unique touch."
+  },
+  {
+    "Category": "ArtStyleCards",
+    "Title": "Gothic",
+    "Description": "Dark and atmospheric style often featuring medieval or Victorian themes and architecture."
+  },
+  {
+    "Category": "ArtStyleCards",
+    "Title": "Surreal",
+    "Description": "Dreamlike and unconventional art style, playing with reality and imagination."
+  },
+  {
+    "Category": "ArtStyleCards",
+    "Title": "Watercolor",
+    "Description": "Soft and flowing visuals created with watercolor techniques, offering an artistic look."
+  },
+  {
+    "Category": "ArtStyleCards",
+    "Title": "Cyberpunk",
+    "Description": "Futuristic and gritty style depicting high-tech, low-life environments."
+  },
+  {
+    "Category": "ArtStyleCards",
+    "Title": "Fantasy",
+    "Description": "Imaginative and mythical art style often featuring magical creatures and realms."
+  },
+  {
+    "Category": "ArtStyleCards",
+    "Title": "Steampunk",
+    "Description": "Victorian-era aesthetics merged with steam-powered machinery and retro-futurism."
+  },
+  {
+    "Category": "ArtStyleCards",
+    "Title": "Pop Art",
+    "Description": "Vibrant and bold style inspired by popular culture and consumerism."
+  },
+  {
+    "Category": "ArtStyleCards",
+    "Title": "Anime/Manga",
+    "Description": "Japanese-style art characterized by colorful visuals and distinctive character designs."
+  },
+  {
+    "Category": "ArtStyleCards",
+    "Title": "Sci-Fi",
+    "Description": "Futuristic and technology-oriented visuals depicting advanced worlds and concepts."
+  },
+  {
+    "Category": "ArtStyleCards",
+    "Title": "Retro Futurism",
+    "Description": "Imagines future concepts and technology from a past era's perspective."
+  },
+  {
+    "Category": "ArtStyleCards",
+    "Title": "Tribal/Indigenous",
+    "Description": "Art style inspired by traditional cultural elements and indigenous art forms."
+  },
+  {
+    "Category": "ArtStyleCards",
+    "Title": "Graffiti/Street Art",
+    "Description": "Urban and expressive art style found in street murals, often with social commentary."
+  },
+  {
+    "Category": "ArtStyleCards",
+    "Title": "Cute/Kawaii",
+    "Description": "Adorable and charming style featuring cute characters and bright colors."
+  },
+  {
+    "Category": "ArtStyleCards",
+    "Title": "Noir",
+    "Description": "Dark and moody art style reminiscent of film noir, often in black and white."
+  },
+  {
+    "Category": "ArtStyleCards",
+    "Title": "Impressionism",
+    "Description": "Art style capturing fleeting impressions or moments with visible brushstrokes."
+  },
+  {
+    "Category": "PlayerInteractionCards",
+    "Title": "Trading",
+    "Description": "Players exchange resources, items, or cards to benefit themselves."
+  },
+  {
+    "Category": "PlayerInteractionCards",
+    "Title": "Negotiation",
+    "Description": "Players engage in discussions or bargaining to reach agreements or deals."
+  },
+  {
+    "Category": "PlayerInteractionCards",
+    "Title": "Alliance Building",
+    "Description": "Players form partnerships or alliances to achieve common goals."
+  },
+  {
+    "Category": "PlayerInteractionCards",
+    "Title": "Competition",
+    "Description": "Players compete against each other to achieve superiority or win objectives."
+  },
+  {
+    "Category": "PlayerInteractionCards",
+    "Title": "Cooperation",
+    "Description": "Players collaborate and work together to achieve shared objectives."
+  },
+  {
+    "Category": "PlayerInteractionCards",
+    "Title": "Deception/Bluffing",
+    "Description": "Players mislead opponents or conceal their intentions to gain advantages."
+  },
+  {
+    "Category": "PlayerInteractionCards",
+    "Title": "Diplomacy",
+    "Description": "Players engage in formal negotiations and agreements affecting gameplay."
+  },
+  {
+    "Category": "PlayerInteractionCards",
+    "Title": "Sabotage",
+    "Description": "Players disrupt or hinder opponents' progress through secretive actions."
+  },
+  {
+    "Category": "PlayerInteractionCards",
+    "Title": "All-against-One",
+    "Description": "Players unite against a single player or threat, fostering temporary alliances."
+  },
+  {
+    "Category": "PlayerInteractionCards",
+    "Title": "Traitor Mechanism",
+    "Description": "One or more players secretly work against the group's objectives."
+  },
+  {
+    "Category": "PlayerInteractionCards",
+    "Title": "Kingmaker",
+    "Description": "A player not in contention for victory determines the winner among others."
+  },
+  {
+    "Category": "PlayerInteractionCards",
+    "Title": "Resource Sharing",
+    "Description": "Players pool resources or abilities for collective benefits."
+  },
+  {
+    "Category": "PlayerInteractionCards",
+    "Title": "Voting/Election",
+    "Description": "Players vote or elect to decide on game-related outcomes or actions."
+  },
+  {
+    "Category": "PlayerInteractionCards",
+    "Title": "Leaderboards",
+    "Description": "Players compete for ranks or positions on scoreboards or leaderboards."
+  },
+  {
+    "Category": "PlayerInteractionCards",
+    "Title": "Role-playing",
+    "Description": "Players assume roles or characters, interacting in-character for gameplay."
+  },
+  {
+    "Category": "PlayerInteractionCards",
+    "Title": "Tournaments",
+    "Description": "Players participate in competitive events structured as tournaments."
+  },
+  {
+    "Category": "PlayerInteractionCards",
+    "Title": "Player-Driven Narrative",
+    "Description": "Players influence the narrative or storyline through their actions or choices."
+  },
+  {
+    "Category": "PlayerInteractionCards",
+    "Title": "Trading Card Game (TCG)",
+    "Description": "Gameplay centers around collecting and trading specially designed cards."
+  },
+  {
+    "Category": "PlayerInteractionCards",
+    "Title": "Drafting",
+    "Description": "Players select or 'draft' items or cards from a pool, affecting strategy."
+  },
+  {
+    "Category": "PlayerInteractionCards",
+    "Title": "Betrayal",
+    "Description": "Players experience betrayal or double-crossing, affecting alliances or outcomes."
+  },
+  {
+    "Category": "RandomEventCards",
+    "Title": "Natural Disaster",
+    "Description": "A catastrophic event such as earthquakes, floods, or tornadoes occurs."
+  },
+  {
+    "Category": "RandomEventCards",
+    "Title": "Epidemic/Pandemic",
+    "Description": "An infectious disease spreads rapidly, affecting gameplay or resources."
+  },
+  {
+    "Category": "RandomEventCards",
+    "Title": "Alien Invasion",
+    "Description": "Extraterrestrial beings invade the game world, introducing new challenges."
+  },
+  {
+    "Category": "RandomEventCards",
+    "Title": "Time Distortion",
+    "Description": "Time becomes unstable, causing anomalies or altering game mechanics."
+  },
+  {
+    "Category": "RandomEventCards",
+    "Title": "Celestial Phenomenon",
+    "Description": "Unusual astronomical events like eclipses or meteor showers affect gameplay."
+  },
+  {
+    "Category": "RandomEventCards",
+    "Title": "Political Upheaval",
+    "Description": "Political unrest or revolutions disrupt the game world's stability."
+  },
+  {
+    "Category": "RandomEventCards",
+    "Title": "Technological Breakdown",
+    "Description": "Critical technology malfunctions, impacting gameplay or resources."
+  },
+  {
+    "Category": "RandomEventCards",
+    "Title": "Magical Anomaly",
+    "Description": "Unpredictable magical disturbances cause chaotic effects or changes."
+  },
+  {
+    "Category": "RandomEventCards",
+    "Title": "Temporal Rift",
+    "Description": "A rift in time and space emerges, altering aspects of the game world."
+  },
+  {
+    "Category": "RandomEventCards",
+    "Title": "Famine/Scarcity",
+    "Description": "Severe shortage of resources or food affects gameplay and strategy."
+  },
+  {
+    "Category": "RandomEventCards",
+    "Title": "Ghostly Haunting",
+    "Description": "Supernatural entities or ghosts disturb the game world's peace."
+  },
+  {
+    "Category": "RandomEventCards",
+    "Title": "Bounty of Fortune",
+    "Description": "A stroke of luck brings unexpected riches or benefits to players."
+  },
+  {
+    "Category": "RandomEventCards",
+    "Title": "Chaos and Anarchy",
+    "Description": "A period of chaos or lawlessness significantly alters gameplay dynamics."
+  },
+  {
+    "Category": "RandomEventCards",
+    "Title": "Cultural Renaissance",
+    "Description": "A revival of arts, culture, or knowledge positively impacts gameplay."
+  },
+  {
+    "Category": "RandomEventCards",
+    "Title": "Temporal Paradox",
+    "Description": "A time-related contradiction creates unusual or conflicting situations."
+  },
+  {
+    "Category": "RandomEventCards",
+    "Title": "Supernatural Blessing",
+    "Description": "A mystical or divine blessing grants players unexpected advantages."
+  },
+  {
+    "Category": "RandomEventCards",
+    "Title": "Monster Invasion",
+    "Description": "Hordes of monsters or creatures invade, posing new threats or challenges."
+  },
+  {
+    "Category": "RandomEventCards",
+    "Title": "Lost Artifact Discovery",
+    "Description": "Players stumble upon a powerful or mysterious artifact with game-changing potential."
+  },
+  {
+    "Category": "RandomEventCards",
+    "Title": "Cataclysmic Event",
+    "Description": "A catastrophic event reshapes the game world or its fundamental rules."
+  },
+  {
+    "Category": "RandomEventCards",
+    "Title": "Celestial Alignment",
+    "Description": "Alignment of celestial bodies triggers unique effects or opportunities."
+  },
+  {
+    "Category": "NarrativeCards",
+    "Title": "Hero's Journey",
+    "Description": "Follows the classic hero's quest with a protagonist facing trials and growth."
+  },
+  {
+    "Category": "NarrativeCards",
+    "Title": "Mystery/Investigation",
+    "Description": "Players uncover clues and solve mysteries through investigation."
+  },
+  {
+    "Category": "NarrativeCards",
+    "Title": "Revenge Story",
+    "Description": "Driven by a character's quest for vengeance against a perpetrator."
+  },
+  {
+    "Category": "NarrativeCards",
+    "Title": "Redemption Arc",
+    "Description": "Focuses on a character's journey to seek redemption or atonement."
+  },
+  {
+    "Category": "NarrativeCards",
+    "Title": "Epic War/Conflict",
+    "Description": "Centers around large-scale conflicts, battles, or wars between factions."
+  },
+  {
+    "Category": "NarrativeCards",
+    "Title": "Dystopian Society",
+    "Description": "Set in a grim, oppressive society, often exploring themes of control or rebellion."
+  },
+  {
+    "Category": "NarrativeCards",
+    "Title": "Survival Story",
+    "Description": "Players struggle to survive in harsh environments or against odds."
+  },
+  {
+    "Category": "NarrativeCards",
+    "Title": "Time Travel Adventure",
+    "Description": "Involves time manipulation or travel, altering events across different eras."
+  },
+  {
+    "Category": "NarrativeCards",
+    "Title": "Quest for Knowledge",
+    "Description": "Focused on characters seeking wisdom, truths, or ancient knowledge."
+  },
+  {
+    "Category": "NarrativeCards",
+    "Title": "Family Drama",
+    "Description": "Centers around family dynamics, conflicts, and relationships."
+  },
+  {
+    "Category": "NarrativeCards",
+    "Title": "Mythical Prophecy",
+    "Description": "Characters fulfill or challenge a prophecy foretelling significant events."
+  },
+  {
+    "Category": "NarrativeCards",
+    "Title": "Political Intrigue",
+    "Description": "Involves complex power struggles, alliances, and political maneuvering."
+  },
+  {
+    "Category": "NarrativeCards",
+    "Title": "Exploration/Discovery",
+    "Description": "Players uncover new lands, civilizations, or secrets through exploration."
+  },
+  {
+    "Category": "NarrativeCards",
+    "Title": "Love/Romance Story",
+    "Description": "Focuses on relationships, love, or romantic entanglements among characters."
+  },
+  {
+    "Category": "NarrativeCards",
+    "Title": "Folklore/Fairy Tale",
+    "Description": "Draws inspiration from traditional folklore, fairy tales, or mythical stories."
+  },
+  {
+    "Category": "NarrativeCards",
+    "Title": "Apocalyptic Scenario",
+    "Description": "Set in a post-apocalyptic world, exploring survival and rebuilding."
+  },
+  {
+    "Category": "NarrativeCards",
+    "Title": "Heist/Caper",
+    "Description": "Involves planning and executing a high-stakes theft or mission."
+  },
+  {
+    "Category": "NarrativeCards",
+    "Title": "Psychological Thriller",
+    "Description": "Focuses on mental states, suspense, and psychological challenges."
+  },
+  {
+    "Category": "NarrativeCards",
+    "Title": "Artificial Intelligence Morality",
+    "Description": "Explores ethical dilemmas and choices in AI development or existence."
+  },
+  {
+    "Category": "NarrativeCards",
+    "Title": "Parallel Universe",
+    "Description": "Characters navigate multiple universes or alternate realities."
+  },
+  {
+    "Category": "BalanceCards",
+    "Title": "Resource Management",
+    "Description": "Balancing the use and acquisition of resources for sustainable progress."
+  },
+  {
+    "Category": "BalanceCards",
+    "Title": "Character Progression",
+    "Description": "Balancing character growth and abilities to maintain fair gameplay."
+  },
+  {
+    "Category": "BalanceCards",
+    "Title": "Action Economy",
+    "Description": "Balancing actions or turns to prevent one player's dominance."
+  },
+  {
+    "Category": "BalanceCards",
+    "Title": "Difficulty Scaling",
+    "Description": "Balancing game difficulty to suit different player skill levels."
+  },
+  {
+    "Category": "BalanceCards",
+    "Title": "Player Interactions",
+    "Description": "Balancing player interactions to prevent monopolization or exclusion."
+  },
+  {
+    "Category": "BalanceCards",
+    "Title": "Randomness vs Strategy",
+    "Description": "Balancing random elements and strategic choices to maintain engagement."
+  },
+  {
+    "Category": "BalanceCards",
+    "Title": "Risk vs Reward",
+    "Description": "Balancing the risks taken by players with the potential rewards."
+  },
+  {
+    "Category": "BalanceCards",
+    "Title": "Pacing",
+    "Description": "Balancing the game's pace to keep players engaged without overwhelming them."
+  },
+  {
+    "Category": "BalanceCards",
+    "Title": "Player vs Player (PvP)",
+    "Description": "Balancing player-versus-player elements to prevent overpowering strategies."
+  },
+  {
+    "Category": "BalanceCards",
+    "Title": "Equipment/Items",
+    "Description": "Balancing the power and rarity of equipment or items in the game."
+  },
+  {
+    "Category": "BalanceCards",
+    "Title": "Scoring/Point Systems",
+    "Description": "Balancing scoring mechanics to prevent certain actions from dominating."
+  },
+  {
+    "Category": "BalanceCards",
+    "Title": "Asymmetrical Mechanics",
+    "Description": "Balancing asymmetric abilities or mechanics for fair gameplay."
+  },
+  {
+    "Category": "BalanceCards",
+    "Title": "Accessibility",
+    "Description": "Balancing the game's complexity to ensure accessibility for all players."
+  },
+  {
+    "Category": "BalanceCards",
+    "Title": "Long-term vs Short-term Goals",
+    "Description": "Balancing immediate gains with long-term objectives for strategic depth."
+  },
+  {
+    "Category": "BalanceCards",
+    "Title": "Player Roles/Balance",
+    "Description": "Balancing the roles or classes players can assume for fairness."
+  },
+  {
+    "Category": "BalanceCards",
+    "Title": "Catch-up Mechanics",
+    "Description": "Balancing mechanisms to allow players behind to catch up with leaders."
+  },
+  {
+    "Category": "BalanceCards",
+    "Title": "Feedback Systems",
+    "Description": "Balancing feedback to provide information without overwhelming players."
+  },
+  {
+    "Category": "BalanceCards",
+    "Title": "Progression Pacing",
+    "Description": "Balancing the rate of progression to maintain engagement."
+  },
+  {
+    "Category": "BalanceCards",
+    "Title": "Adaptability",
+    "Description": "Balancing game elements to allow for different playstyles or strategies."
+  },
+  {
+    "Category": "BalanceCards",
+    "Title": "In-game Economy",
+    "Description": "Balancing in-game currency, trade, and economic systems."
   }
 ]
