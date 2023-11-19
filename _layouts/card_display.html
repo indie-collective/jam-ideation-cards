@@ -18,7 +18,7 @@
         const categories = [...new Set(data.map(card => card.category))];
 
         categories.forEach(category => {
-          const cardsInCategory = data.filter(card => card.Category === category);
+          const cardsInCategory = data.filter(card => card.category === category);
 
           const categoryDiv = document.createElement('div');
           categoryDiv.innerHTML = `<h2>${category}</h2>`;
