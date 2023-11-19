@@ -15,7 +15,7 @@
     fetch('{{ site.baseurl }}/cards.json')
       .then(response => response.json())
       .then(data => {
-        const categories = [...new Set(data.map(card => card.Category))];
+        const categories = [...new Set(data.map(card => card.category))];
 
         categories.forEach(category => {
           const cardsInCategory = data.filter(card => card.Category === category);
