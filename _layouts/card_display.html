@@ -21,6 +21,7 @@
           const cardsInCategory = data.filter(card => card.category === category);
 
           const categoryDiv = document.createElement('div');
+          categoryDiv.classList.add('category');
           categoryDiv.innerHTML = `<h2>${category}</h2>`;
           document.getElementById('cardDisplay').appendChild(categoryDiv);
 
