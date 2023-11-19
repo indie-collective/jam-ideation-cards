@@ -1,0 +1,58 @@
+<!-- card_display.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <style>
+    /* Basic styling for the card display */
+    .card {
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      padding: 10px;
+      margin: 10px;
+      width: 200px;
+      background-color: #f9f9f9;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+    h2 {
+      margin-top: 0;
+    }
+    p {
+      margin-bottom: 0;
+    }
+  </style>
+</head>
+<body>
+  <div id="cardDisplay">
+    <!-- Content will be injected here -->
+  </div>
+
+  <script>
+    fetch('{{ site.baseurl }}/cards.json')
+      .then(response => response.json())
+      .then(data => {
+        const categories = [...new Set(data.map(card => card.Category))];
+
+        categories.forEach(category => {
+          const cardsInCategory = data.filter(card => card.Category === category);
+
+          const categoryDiv = document.createElement('div');
+          categoryDiv.innerHTML = `<h2>${category}</h2>`;
+          document.getElementById('cardDisplay').appendChild(categoryDiv);
+
+          cardsInCategory.forEach(card => {
+            const cardDiv = document.createElement('div');
+            cardDiv.classList.add('card');
+            cardDiv.innerHTML = `
+              <h3>${card.Title}</h3>
+              <p>${card.Description}</p>
+            `;
+            categoryDiv.appendChild(cardDiv);
+          });
+        });
+      })
+      .catch(error => console.error('Error fetching data:', error));
+  </script>
+</body>
+</html>
