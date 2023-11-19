@@ -1,0 +1,302 @@
+[
+  {
+    "category": "ThemeCards",
+    "title": "Space exploration",
+    "description": "Explore the vast unknown, encountering alien worlds and celestial phenomena."
+  },
+  {
+    "category": "ThemeCards",
+    "title": "Medieval fantasy",
+    "description": "Journey through a realm of knights, dragons, and magical quests."
+  },
+  {
+    "category": "ThemeCards",
+    "title": "Cyberpunk dystopia",
+    "description": "Navigate a gritty, high-tech future filled with megacorporations and cybernetic enhancements."
+  },
+  {
+    "category": "ThemeCards",
+    "title": "Time travel adventure",
+    "description": "Leap through time, altering history or fixing temporal anomalies."
+  },
+  {
+    "category": "ThemeCards",
+    "title": "Underwater civilization",
+    "description": "Discover and interact with civilizations beneath the waves, facing unique challenges."
+  },
+  {
+    "category": "ThemeCards",
+    "title": "Post-apocalyptic world",
+    "description": "Survive and rebuild in a world devastated by a cataclysmic event."
+  },
+  {
+    "category": "ThemeCards",
+    "title": "Steampunk universe",
+    "description": "Engage in an alternate reality driven by steam-powered technology and Victorian aesthetics."
+  },
+  {
+    "category": "ThemeCards",
+    "title": "Superhero academy",
+    "description": "Attend a school for aspiring heroes, honing powers and facing heroic challenges."
+  },
+  {
+    "category": "ThemeCards",
+    "title": "Mythical creatures",
+    "description": "Encounter and interact with creatures from folklore and mythology."
+  },
+  {
+    "category": "ThemeCards",
+    "title": "Alternate history",
+    "description": "Imagine a world where key historical events unfolded differently."
+  },
+  {
+    "category": "ThemeCards",
+    "title": "Wilderness survival",
+    "description": "Struggle to survive in untamed environments, facing nature's challenges."
+  },
+  {
+    "category": "ThemeCards",
+    "title": "Crime noir",
+    "description": "Step into a world of detective mysteries, shady dealings, and gritty urban landscapes."
+  },
+  {
+    "category": "ThemeCards",
+    "title": "Virtual reality realm",
+    "description": "Enter a digital world where anything is possible, blurring the lines between reality and simulation."
+  },
+  {
+    "category": "ThemeCards",
+    "title": "Ancient civilization revival",
+    "description": "Unearth ancient cultures and artifacts, reconstructing lost civilizations."
+  },
+  {
+    "category": "ThemeCards",
+    "title": "Fairy tale reinterpretation",
+    "description": "Reimagine classic fairy tales with unexpected twists and modern perspectives."
+  },
+  {
+    "category": "ThemeCards",
+    "title": "Alien invasion",
+    "description": "Defend Earth against extraterrestrial threats or explore the consequences of an alien arrival."
+  },
+  {
+    "category": "ThemeCards",
+    "title": "Magical school",
+    "description": "Enroll in a school for magic, learning spells and uncovering mysteries."
+  },
+  {
+    "category": "ThemeCards",
+    "title": "Industrial revolution",
+    "description": "Witness or drive a period of rapid technological advancement and societal change."
+  },
+  {
+    "category": "ThemeCards",
+    "title": "Parallel dimensions",
+    "description": "Explore worlds existing in parallel dimensions, each with its own rules and quirks."
+  },
+  {
+    "category": "ThemeCards",
+    "title": "Sports tournament in a futuristic setting",
+    "description": "Compete in futuristic sports tournaments featuring advanced technology and unique challenges."
+  },
+  {
+    "category": "GameMechanicCards",
+    "title": "Deck-building",
+    "description": "Players construct their decks of cards throughout the game, acquiring new cards to enhance their abilities."
+  },
+  {
+    "category": "GameMechanicCards",
+    "title": "Hidden traitor mechanic",
+    "description": "Players work together while secretly one or more players act against the group's goals."
+  },
+  {
+    "category": "GameMechanicCards",
+    "title": "Worker placement",
+    "description": "Players place workers on a board to take actions or gain resources."
+  },
+  {
+    "category": "GameMechanicCards",
+    "title": "Asymmetrical gameplay",
+    "description": "Players have different roles, abilities, or goals, creating varied experiences for each player."
+  },
+  {
+    "category": "GameMechanicCards",
+    "title": "Cooperative puzzle-solving",
+    "description": "Players work together to solve puzzles or challenges within the game."
+  },
+  {
+    "category": "GameMechanicCards",
+    "title": "Resource management and trading",
+    "description": "Manage resources efficiently and engage in trading to progress in the game."
+  },
+  {
+    "category": "GameMechanicCards",
+    "title": "Time manipulation",
+    "description": "Control time, either by rewinding, pausing, or fast-forwarding, affecting gameplay dynamics."
+  },
+  {
+    "category": "GameMechanicCards",
+    "title": "Variable player powers",
+    "description": "Each player has unique abilities or advantages that differentiate their playstyle."
+  },
+  {
+    "category": "GameMechanicCards",
+    "title": "Deduction and bluffing",
+    "description": "Players gather information or deceive others to achieve their objectives."
+  },
+  {
+    "category": "GameMechanicCards",
+    "title": "Area control",
+    "description": "Compete for control over specific areas or territories on the game board."
+  },
+  {
+    "category": "GameMechanicCards",
+    "title": "Role-playing elements",
+    "description": "Incorporate character development, storytelling, and immersive narratives into the game."
+  },
+  {
+    "category": "GameMechanicCards",
+    "title": "Engine-building",
+    "description": "Players progressively construct a complex set of resources or abilities over the course of the game."
+  },
+  {
+    "category": "GameMechanicCards",
+    "title": "Modular board or map construction",
+    "description": "Build the game board or map using modular pieces or tiles, creating diverse setups."
+  },
+  {
+    "category": "GameMechanicCards",
+    "title": "Auction and bidding",
+    "description": "Engage in auctions or bidding to acquire resources, characters, or advantages."
+  },
+  {
+    "category": "GameMechanicCards",
+    "title": "Tile placement",
+    "description": "Place tiles strategically to score points or achieve specific objectives."
+  },
+  {
+    "category": "GameMechanicCards",
+    "title": "Push-your-luck mechanism",
+    "description": "Players face decisions where they can press on for greater rewards or risk losing it all."
+  },
+  {
+    "category": "GameMechanicCards",
+    "title": "Crafting and item collection",
+    "description": "Gather resources to create or collect items, enhancing gameplay or achieving goals."
+  },
+  {
+    "category": "GameMechanicCards",
+    "title": "Simultaneous action selection",
+    "description": "Players choose their actions simultaneously, revealing and resolving them together."
+  },
+  {
+    "category": "GameMechanicCards",
+    "title": "Legacy or evolving gameplay",
+    "description": "Gameplay permanently evolves or changes based on previous outcomes or decisions."
+  },
+  {
+    "category": "GameMechanicCards",
+    "title": "Pattern recognition and matching",
+    "description": "Challenge players to recognize patterns or match elements for success in the game."
+  },
+  {
+    "category": "GameTypeCards",
+    "title": "Card game with a drafting mechanic",
+    "description": "Players draft cards from a common pool to build their decks or strategies."
+  },
+  {
+    "category": "GameTypeCards",
+    "title": "Real-time strategy game",
+    "description": "Manage resources and troops in a fast-paced, strategic battle against opponents."
+  },
+  {
+    "category": "GameTypeCards",
+    "title": "Point-and-click adventure",
+    "description": "Explore environments, solve puzzles, and progress through a story-driven narrative."
+  },
+  {
+    "category": "GameTypeCards",
+    "title": "Tactical RPG",
+    "description": "Engage in role-playing elements with a focus on strategic combat and decision-making."
+  },
+  {
+    "category": "GameTypeCards",
+    "title": "Deck-building dungeon crawler",
+    "description": "Combine deck-building mechanics with exploration and combat in a dungeon setting."
+  },
+  {
+    "category": "GameTypeCards",
+    "title": "Trivia-based party game",
+    "description": "Challenge players' knowledge and wits in a fun, social setting."
+  },
+  {
+    "category": "GameTypeCards",
+    "title": "Social deduction game",
+    "description": "Players work to uncover hidden roles or traitors among them through social interaction."
+  },
+  {
+    "category": "GameTypeCards",
+    "title": "4X (explore, expand, exploit, exterminate) strategy",
+    "description": "Lead a civilization, focusing on exploration, expansion, resource exploitation, and competition."
+  },
+  {
+    "category": "GameTypeCards",
+    "title": "Racing game with a twist",
+    "description": "Race against opponents with added unique mechanics or challenges."
+  },
+  {
+    "category": "GameTypeCards",
+    "title": "Escape room-style board game",
+    "description": "Solve puzzles and riddles to progress and ultimately escape within a limited time."
+  },
+  {
+    "category": "GameTypeCards",
+    "title": "Cooperative survival game",
+    "description": "Work together to overcome challenges, survive, and achieve a common goal."
+  },
+  {
+    "category": "GameTypeCards",
+    "title": "Word-based puzzle game",
+    "description": "Challenge players with word puzzles, anagrams, or word association tasks."
+  },
+  {
+    "category": "GameTypeCards",
+    "title": "Tower defense game",
+    "description": "Strategically place defensive structures to fend off waves of enemies."
+  },
+  {
+    "category": "GameTypeCards",
+    "title": "Abstract strategy game",
+    "description": "Focus on strategic thinking and planning, often with minimal theme or narrative."
+  },
+  {
+    "category": "GameTypeCards",
+    "title": "Simulated city-building game",
+    "description": "Construct and manage a city, balancing various factors like economy and infrastructure."
+  },
+  {
+    "category": "GameTypeCards",
+    "title": "Escape from a locked location",
+    "description": "Solve puzzles and find clues to escape from a confined space."
+  },
+  {
+    "category": "GameTypeCards",
+    "title": "Mystery-solving deduction game",
+    "description": "Use deductive reasoning and investigation to solve mysteries or crimes."
+  },
+  {
+    "category": "GameTypeCards",
+    "title": "Augmented reality experience",
+    "description": "Incorporate elements of the real world with digital enhancements and interactivity."
+  },
+  {
+    "category": "GameTypeCards",
+    "title": "Choose-your-own-adventure card game",
+    "description": "Navigate through a story by making choices that impact the outcome."
+  },
+  {
+    "category": "GameTypeCards",
+    "title": "Crafting and resource management game",
+    "description": "Gather resources, craft items, and manage supplies for survival or progression."
+  }
+]
